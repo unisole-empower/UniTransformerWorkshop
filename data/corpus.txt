@@ -1,0 +1,40 @@
+The quick brown fox jumps over the lazy dog.
+Machine learning is a subset of artificial intelligence.
+Neural networks learn representations from data automatically.
+Transformers revolutionized natural language processing in 2017.
+Attention is all you need was the groundbreaking paper by Google.
+Large language models can generate human-like text fluently.
+GPT stands for Generative Pre-trained Transformer architecture.
+Training a language model requires massive amounts of text data.
+Tokenization converts raw text into numerical sequences for models.
+The embedding layer maps token IDs to dense vector representations.
+Self-attention allows each token to attend to all other tokens.
+Multi-head attention runs multiple attention operations in parallel.
+The transformer block combines attention with feed-forward networks.
+Pre-training teaches the model general language understanding.
+Fine-tuning adapts the pre-trained model to specific tasks.
+Supervised fine-tuning uses labeled instruction-response pairs.
+RLHF uses human preferences to align model outputs with values.
+A reward model scores responses based on human preference data.
+PPO is a policy optimization algorithm used in RLHF training.
+The KL divergence penalty prevents the model from diverging too far.
+Temperature controls the randomness of text generation output.
+Top-k sampling limits generation to the k most likely next tokens.
+Perplexity measures how well a language model predicts text.
+Cross-entropy loss is the standard training objective for LLMs.
+Batch size and learning rate are critical hyperparameters to tune.
+Gradient clipping prevents exploding gradients during training.
+Layer normalization stabilizes training of deep neural networks.
+Residual connections help gradients flow through deep architectures.
+The vocabulary size determines the number of unique tokens.
+Byte-pair encoding is a subword tokenization algorithm.
+The special tokens include padding, beginning, and end of sequence.
+Positional encoding tells the model about token order in sequence.
+Causal masking ensures the model only looks at previous tokens.
+The softmax function converts logits into probability distributions.
+Greedy decoding always picks the most probable next token.
+Beam search explores multiple generation paths simultaneously.
+The context window limits how many tokens the model can process.
+Scaling laws predict model performance based on size and data.
+Emergent abilities appear in sufficiently large language models.
+Transfer learning leverages knowledge from pre-training tasks.
